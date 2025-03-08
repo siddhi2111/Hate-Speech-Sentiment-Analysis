@@ -3,6 +3,7 @@ This project is a text classification system that uses Stochastic Gradient Desce
 It preprocesses text data, balances the dataset, converts text into numerical features using TF-IDF, and trains an SGD-based classifier for prediction.
 
 Features:
+<br>
 ✔ Text preprocessing – Cleans text by removing special characters, links, and mentions.
 <br>
 ✔ Data balancing – Upsamples the minority class to prevent model bias.
@@ -15,6 +16,7 @@ Features:
 <br>
 
 Model Performance:
+<br>
 The model was evaluated using F1-score, which balances Precision and Recall.
 <br>
 Results may vary based on dataset size and preprocessing steps.
